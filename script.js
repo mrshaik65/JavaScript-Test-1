@@ -80,4 +80,3 @@ let text = "123abc"
 let numText = Number(text)
 console.log(numText)
 console.log(typeof numText)
-
